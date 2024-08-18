@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ken Lu</h1>
+
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **ML/AI, Web Development**
