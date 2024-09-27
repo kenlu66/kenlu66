@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **ML/AI, Web Development**
+- 🌱 I’m currently learning **ML/AI, Web Development, IOS**
 
 - 📫 How to reach me **ken.lu@utexas.edu**
 
