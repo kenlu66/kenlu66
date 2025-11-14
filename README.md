@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ML/AI, Web Development, IOS**
 
-- 📫 How to reach me **ken.lu@utexas.edu**
+- 📫 How to reach me **klu98@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
