@@ -1,33 +1,87 @@
+<h1 align="center">Hi, I'm Ken Lu</h1>
 
-
-<!--
-**kenlu66/kenlu66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Ken Lu</h1>
-
-- 🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **ML/AI, Web Development, IOS**
-
-- 📫 How to reach me **klu98@gatech.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kan-lu-a73154237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kan-lu-a73154237/" height="30" width="40" /></a>
-<a href="https://instagram.com/kenlu_mu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenlu_mu" height="30" width="40" /></a>
+<p align="center">
+  M.S. Computational Science & Engineering @ Georgia Tech<br />
+  B.S. Computer Science & B.S. Mathematics @ UT Austin
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Software engineer focused on AI systems, full-stack products, and scalable data-driven applications.</strong>
+</p>
+
+<p align="center">
+  Seeking Software Engineering Internship opportunities.
+</p>
+
+<p align="center">
+  <a href="mailto:klu98@gatech.edu">
+    <img src="https://img.shields.io/badge/Email-klu98%40gatech.edu-0A66C2?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/kan-lu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ken%20Lu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kenlu66">
+    <img src="https://img.shields.io/badge/GitHub-kenlu66-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## About Me
+
+- I build AI and full-stack systems that turn data, models, and user workflows into reliable products.
+- I have production experience with React, Flask, REST APIs, PostgreSQL, Docker, AWS, and CI/CD.
+- I have worked on platforms serving 1,500+ instructors and students, handling 10k+ submissions per week.
+- I enjoy performance-minded engineering, from backend systems and databases to ML pipelines and user-facing tools.
+
+## Featured Work
+
+### CodeAssist - AI Feedback System
+
+- Developed a production full-stack platform for programming submissions, feedback, and grading workflows.
+- Built Python/Flask REST APIs and React interfaces, reducing feedback turnaround from 48 hours to 15 minutes.
+- Scaled workflows to 10k+ submissions per week with validation, rate limits, caching, logs, and alerts.
+- Managed PostgreSQL data for 50,000+ code, submission, grade, and student records.
+
+### Scholar Compass - AI-Driven Advisor Discovery
+
+- Built an end-to-end advisor matching platform with data ingestion, entity resolution, search, and visualization.
+- Developed backend services and pipelines for author-name disambiguation using blocking and similarity scoring.
+- Modeled authors, papers, and topics with Neo4j and PostgreSQL, with Redis caching and Dockerized services.
+- Deployed to AWS with GitHub Actions CI/CD, SSH-based server management, logging, and alerts.
+
+### Data Science & Software Engineering
+
+- Built Python ETL and web scraping pipelines at KPMG to standardize EV charging and vehicle data from 10+ sources.
+- Developed analysis notebooks and visualizations for market sizing and go-to-market research.
+- Built systems projects including a parallel route planner in C/OpenMP and a Unix-like command line shell.
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,c,cpp,ts,js,html,css,sql&perline=10" alt="Languages: Python, Go, Java, C, C++, TypeScript, JavaScript, HTML, CSS, SQL" />
+</p>
+
+### AI, Data, and Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,flask,postgres,mysql,mongodb,redis&perline=6" alt="AI, data, and backend: TensorFlow, Flask, PostgreSQL, MySQL, MongoDB, Redis" />
+</p>
+
+### Full-Stack and DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws,githubactions,git,linux&perline=7" alt="Full-stack and DevOps: React, Node.js, Docker, AWS, GitHub Actions, Git, Linux" />
+</p>
+
+## Currently
+
+- Looking for Software Engineering Internship opportunities.
+- Building AI-assisted and data-intensive full-stack applications.
+- Deepening my work in distributed systems, big data, and applied machine learning.
+
+## Connect
+
+I am always open to talking about software engineering, AI products, backend systems, and full-stack development.
+
+You can reach me at [klu98@gatech.edu](mailto:klu98@gatech.edu).
